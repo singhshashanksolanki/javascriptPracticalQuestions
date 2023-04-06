@@ -1,6 +1,6 @@
 // Printing The fibonacci Series
 function fibonacciSeries() {
-    // Prinnting 10 number of fibonacci series
+    // Printing 10 number of fibonacci series
     let a = 0, b = 1;
     console.log(a);
     console.log(b);
